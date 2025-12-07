@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
 
+# Disallow common irrelevant or duplicate paths (optional cleanup)
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /test/
+
 # Point crawlers to your sitemap
-Sitemap: https://codelovin-ai.github.io/sitemap.xml
+Sitemap: https://skyengapp.github.io/sitemap.xml
