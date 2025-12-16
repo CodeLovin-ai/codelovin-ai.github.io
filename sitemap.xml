@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Root developer site -->
   <url>
     <loc>https://skyengapp.github.io/</loc>
   </url>
 
+  <!-- Sky ENG App Blogs page -->
   <url>
     <loc>https://skyengapp.github.io/blogs.html</loc>
+  </url>
+
+  <!-- WordPuzlr landing page -->
+  <url>
+    <loc>https://skyengapp.github.io/WordPuzlr/</loc>
+  </url>
+
+  <!-- WordPuzlr Blogs page -->
+  <url>
+    <loc>https://skyengapp.github.io/WordPuzlr/blogs.html</loc>
   </url>
 
 </urlset>
